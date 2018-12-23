@@ -9,3 +9,4 @@
 
 1. Prediction of Income Category of an individual. (ref - https://archive.ics.uci.edu/ml/datasets/Adult)
 2. Customer Churn Analysis of Significant Variables & Prediction (customer_churn.csv)
+3. Loan Data
